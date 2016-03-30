@@ -1,0 +1,11 @@
+.table {
+  width: 600px;
+  height: 600px;
+  border-color: black;
+}
+
+.square {
+  width: 199px;
+  height: 199px;
+
+}
